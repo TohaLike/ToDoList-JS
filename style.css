@@ -1,0 +1,21 @@
+.input__block {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  margin-top: 400px;
+}
+
+body {
+  background-color: rgb(130, 130, 130);
+}
+
+.sps {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+.important {
+  color: rgb(228, 5, 5);
+}
